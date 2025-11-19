@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C67EF873-C260-439D-A11A-1E754CDE8976}|TARpe22ShopVaitmaa.UnitTesting\\TARpe22ShopVaitmaa.UnitTesting.csproj|g:\\users\\k\\source\\repos\\tarpe22shopvaitmaa\\tarpe22shopvaitmaa.unittesting\\realestatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67EF873-C260-439D-A11A-1E754CDE8976}|TARpe22ShopVaitmaa.UnitTesting\\TARpe22ShopVaitmaa.UnitTesting.csproj|solutionrelative:tarpe22shopvaitmaa.unittesting\\realestatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67EF873-C260-439D-A11A-1E754CDE8976}|TARpe22ShopVaitmaa.UnitTesting\\TARpe22ShopVaitmaa.UnitTesting.csproj|g:\\users\\k\\source\\repos\\tarpe22shopvaitmaa\\tarpe22shopvaitmaa.unittesting\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67EF873-C260-439D-A11A-1E754CDE8976}|TARpe22ShopVaitmaa.UnitTesting\\TARpe22ShopVaitmaa.UnitTesting.csproj|solutionrelative:tarpe22shopvaitmaa.unittesting\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67EF873-C260-439D-A11A-1E754CDE8976}|TARpe22ShopVaitmaa.UnitTesting\\TARpe22ShopVaitmaa.UnitTesting.csproj|g:\\users\\k\\source\\repos\\tarpe22shopvaitmaa\\tarpe22shopvaitmaa.unittesting\\tarpe22shopvaitmaa.unittesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C67EF873-C260-439D-A11A-1E754CDE8976}|TARpe22ShopVaitmaa.UnitTesting\\TARpe22ShopVaitmaa.UnitTesting.csproj|solutionrelative:tarpe22shopvaitmaa.unittesting\\tarpe22shopvaitmaa.unittesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA70CE3E-3C02-47A7-8358-CC22D8AB46F1}|TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj|g:\\users\\k\\source\\repos\\tarpe22shopvaitmaa\\tarpe22shop.core\\dto\\realestatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA70CE3E-3C02-47A7-8358-CC22D8AB46F1}|TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj|solutionrelative:tarpe22shop.core\\dto\\realestatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67EF873-C260-439D-A11A-1E754CDE8976}|TARpe22ShopVaitmaa.UnitTesting\\TARpe22ShopVaitmaa.UnitTesting.csproj|g:\\users\\k\\source\\repos\\tarpe22shopvaitmaa\\tarpe22shopvaitmaa.unittesting\\mock\\mockihostenvironment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67EF873-C260-439D-A11A-1E754CDE8976}|TARpe22ShopVaitmaa.UnitTesting\\TARpe22ShopVaitmaa.UnitTesting.csproj|solutionrelative:tarpe22shopvaitmaa.unittesting\\mock\\mockihostenvironment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABB7B7B-5BAA-417B-9086-97200623F599}|TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.csproj|g:\\users\\k\\source\\repos\\tarpe22shopvaitmaa\\tarpe22shopvaitmaa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABB7B7B-5BAA-417B-9086-97200623F599}|TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.csproj|solutionrelative:tarpe22shopvaitmaa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67EF873-C260-439D-A11A-1E754CDE8976}|TARpe22ShopVaitmaa.UnitTesting\\TARpe22ShopVaitmaa.UnitTesting.csproj|g:\\users\\k\\source\\repos\\tarpe22shopvaitmaa\\tarpe22shopvaitmaa.unittesting\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67EF873-C260-439D-A11A-1E754CDE8976}|TARpe22ShopVaitmaa.UnitTesting\\TARpe22ShopVaitmaa.UnitTesting.csproj|solutionrelative:tarpe22shopvaitmaa.unittesting\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA43C438-A709-473F-8E53-3E37E6D0C92B}|TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj|g:\\users\\k\\source\\repos\\tarpe22shopvaitmaa\\tarpe22shop.data\\tarpe22shopvaitmaacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA43C438-A709-473F-8E53-3E37E6D0C92B}|TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj|solutionrelative:tarpe22shop.data\\tarpe22shopvaitmaacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA70CE3E-3C02-47A7-8358-CC22D8AB46F1}|TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj|g:\\users\\k\\source\\repos\\tarpe22shopvaitmaa\\tarpe22shop.core\\serviceinterface\\irealestatesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA70CE3E-3C02-47A7-8358-CC22D8AB46F1}|TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj|solutionrelative:tarpe22shop.core\\serviceinterface\\irealestatesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67EF873-C260-439D-A11A-1E754CDE8976}|TARpe22ShopVaitmaa.UnitTesting\\TARpe22ShopVaitmaa.UnitTesting.csproj|g:\\users\\k\\source\\repos\\tarpe22shopvaitmaa\\tarpe22shopvaitmaa.unittesting\\macros\\imacros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67EF873-C260-439D-A11A-1E754CDE8976}|TARpe22ShopVaitmaa.UnitTesting\\TARpe22ShopVaitmaa.UnitTesting.csproj|solutionrelative:tarpe22shopvaitmaa.unittesting\\macros\\imacros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABB7B7B-5BAA-417B-9086-97200623F599}|TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.csproj|g:\\users\\k\\source\\repos\\tarpe22shopvaitmaa\\tarpe22shopvaitmaa\\views\\realestates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CABB7B7B-5BAA-417B-9086-97200623F599}|TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.csproj|solutionrelative:tarpe22shopvaitmaa\\views\\realestates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABB7B7B-5BAA-417B-9086-97200623F599}|TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.csproj|g:\\users\\k\\source\\repos\\tarpe22shopvaitmaa\\tarpe22shopvaitmaa\\controllers\\realestatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABB7B7B-5BAA-417B-9086-97200623F599}|TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.csproj|solutionrelative:tarpe22shopvaitmaa\\controllers\\realestatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABB7B7B-5BAA-417B-9086-97200623F599}|TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.csproj|g:\\users\\k\\source\\repos\\tarpe22shopvaitmaa\\tarpe22shopvaitmaa\\views\\realestates\\createupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CABB7B7B-5BAA-417B-9086-97200623F599}|TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.csproj|solutionrelative:tarpe22shopvaitmaa\\views\\realestates\\createupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABB7B7B-5BAA-417B-9086-97200623F599}|TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.csproj|g:\\users\\k\\source\\repos\\tarpe22shopvaitmaa\\tarpe22shopvaitmaa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CABB7B7B-5BAA-417B-9086-97200623F599}|TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.csproj|solutionrelative:tarpe22shopvaitmaa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 833,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TARpe22ShopVaitmaa.UnitTesting",
+              "DocumentMoniker": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.UnitTesting\\TARpe22ShopVaitmaa.UnitTesting.csproj",
+              "RelativeDocumentMoniker": "TARpe22ShopVaitmaa.UnitTesting\\TARpe22ShopVaitmaa.UnitTesting.csproj",
+              "ToolTip": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.UnitTesting\\TARpe22ShopVaitmaa.UnitTesting.csproj",
+              "RelativeToolTip": "TARpe22ShopVaitmaa.UnitTesting\\TARpe22ShopVaitmaa.UnitTesting.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-19T14:50:41.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RealEstateTests.cs",
+              "DocumentMoniker": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.UnitTesting\\RealEstateTests.cs",
+              "RelativeDocumentMoniker": "TARpe22ShopVaitmaa.UnitTesting\\RealEstateTests.cs",
+              "ToolTip": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.UnitTesting\\RealEstateTests.cs",
+              "RelativeToolTip": "TARpe22ShopVaitmaa.UnitTesting\\RealEstateTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:39:35.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa\\Program.cs",
+              "RelativeDocumentMoniker": "TARpe22ShopVaitmaa\\Program.cs",
+              "ToolTip": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa\\Program.cs",
+              "RelativeToolTip": "TARpe22ShopVaitmaa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:53:18.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.UnitTesting\\TestBase.cs",
+              "RelativeDocumentMoniker": "TARpe22ShopVaitmaa.UnitTesting\\TestBase.cs",
+              "ToolTip": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.UnitTesting\\TestBase.cs",
+              "RelativeToolTip": "TARpe22ShopVaitmaa.UnitTesting\\TestBase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:50:24.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRealEstatesServices.cs",
+              "DocumentMoniker": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\ServiceInterface\\IRealEstatesServices.cs",
+              "RelativeDocumentMoniker": "TARpe22Shop.Core\\ServiceInterface\\IRealEstatesServices.cs",
+              "ToolTip": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\ServiceInterface\\IRealEstatesServices.cs",
+              "RelativeToolTip": "TARpe22Shop.Core\\ServiceInterface\\IRealEstatesServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:55:32.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.UnitTesting\\Usings.cs",
+              "RelativeDocumentMoniker": "TARpe22ShopVaitmaa.UnitTesting\\Usings.cs",
+              "ToolTip": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.UnitTesting\\Usings.cs",
+              "RelativeToolTip": "TARpe22ShopVaitmaa.UnitTesting\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:50:03.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MockIHostEnvironment.cs",
+              "DocumentMoniker": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.UnitTesting\\Mock\\MockIHostEnvironment.cs",
+              "RelativeDocumentMoniker": "TARpe22ShopVaitmaa.UnitTesting\\Mock\\MockIHostEnvironment.cs",
+              "ToolTip": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.UnitTesting\\Mock\\MockIHostEnvironment.cs",
+              "RelativeToolTip": "TARpe22ShopVaitmaa.UnitTesting\\Mock\\MockIHostEnvironment.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvwsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:46:47.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TARpe22ShopVaitmaaContext.cs",
+              "DocumentMoniker": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaaContext.cs",
+              "RelativeDocumentMoniker": "TARpe22Shop.Data\\TARpe22ShopVaitmaaContext.cs",
+              "ToolTip": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaaContext.cs",
+              "RelativeToolTip": "TARpe22Shop.Data\\TARpe22ShopVaitmaaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:25:48.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMacros.cs",
+              "DocumentMoniker": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.UnitTesting\\Macros\\IMacros.cs",
+              "RelativeDocumentMoniker": "TARpe22ShopVaitmaa.UnitTesting\\Macros\\IMacros.cs",
+              "ToolTip": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.UnitTesting\\Macros\\IMacros.cs",
+              "RelativeToolTip": "TARpe22ShopVaitmaa.UnitTesting\\Macros\\IMacros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T12:45:49.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateUpdate.cshtml",
+              "DocumentMoniker": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa\\Views\\RealEstates\\CreateUpdate.cshtml",
+              "RelativeDocumentMoniker": "TARpe22ShopVaitmaa\\Views\\RealEstates\\CreateUpdate.cshtml",
+              "ToolTip": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa\\Views\\RealEstates\\CreateUpdate.cshtml",
+              "RelativeToolTip": "TARpe22ShopVaitmaa\\Views\\RealEstates\\CreateUpdate.cshtml",
+              "ViewState": "AgIAAKIAAAAAAAAAAIBpwLQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T15:23:08.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TARpe22ShopVaitmaa\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TARpe22ShopVaitmaa\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBpwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T15:16:27.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RealEstatesController.cs",
+              "DocumentMoniker": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa\\Controllers\\RealEstatesController.cs",
+              "RelativeDocumentMoniker": "TARpe22ShopVaitmaa\\Controllers\\RealEstatesController.cs",
+              "ToolTip": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa\\Controllers\\RealEstatesController.cs",
+              "RelativeToolTip": "TARpe22ShopVaitmaa\\Controllers\\RealEstatesController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAEwDsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T15:12:14.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa\\Views\\RealEstates\\Index.cshtml",
+              "RelativeDocumentMoniker": "TARpe22ShopVaitmaa\\Views\\RealEstates\\Index.cshtml",
+              "ToolTip": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa\\Views\\RealEstates\\Index.cshtml",
+              "RelativeToolTip": "TARpe22ShopVaitmaa\\Views\\RealEstates\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T15:13:45.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 471,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RealEstateDto.cs",
+              "DocumentMoniker": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\Dto\\RealEstateDto.cs",
+              "RelativeDocumentMoniker": "TARpe22Shop.Core\\Dto\\RealEstateDto.cs",
+              "ToolTip": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\Dto\\RealEstateDto.cs",
+              "RelativeToolTip": "TARpe22Shop.Core\\Dto\\RealEstateDto.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA2wCMAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T14:29:08.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 259,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a8466fe-5a05-4f81-ad45-7d7c1316817e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

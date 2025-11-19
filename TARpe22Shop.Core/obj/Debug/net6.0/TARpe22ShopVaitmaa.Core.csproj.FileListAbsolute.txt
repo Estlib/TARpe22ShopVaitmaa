@@ -22,3 +22,16 @@ G:\Users\K\Desktop\teetch\shopproject\tarpe22\TARpe22ShopVaitmaa\TARpe22Shop.Cor
 G:\Users\K\Desktop\teetch\shopproject\tarpe22\TARpe22ShopVaitmaa\TARpe22Shop.Core\obj\Debug\net6.0\refint\TARpe22ShopVaitmaa.Core.dll
 G:\Users\K\Desktop\teetch\shopproject\tarpe22\TARpe22ShopVaitmaa\TARpe22Shop.Core\obj\Debug\net6.0\TARpe22ShopVaitmaa.Core.pdb
 G:\Users\K\Desktop\teetch\shopproject\tarpe22\TARpe22ShopVaitmaa\TARpe22Shop.Core\obj\Debug\net6.0\ref\TARpe22ShopVaitmaa.Core.dll
+G:\Users\K\source\repos\TARpe22ShopVaitmaa\TARpe22Shop.Core\bin\Debug\net6.0\TARpe22ShopVaitmaa.Core.deps.json
+G:\Users\K\source\repos\TARpe22ShopVaitmaa\TARpe22Shop.Core\bin\Debug\net6.0\TARpe22ShopVaitmaa.Core.dll
+G:\Users\K\source\repos\TARpe22ShopVaitmaa\TARpe22Shop.Core\bin\Debug\net6.0\TARpe22ShopVaitmaa.Core.pdb
+G:\Users\K\source\repos\TARpe22ShopVaitmaa\TARpe22Shop.Core\obj\Debug\net6.0\TARpe22ShopVaitmaa.Core.csproj.AssemblyReference.cache
+G:\Users\K\source\repos\TARpe22ShopVaitmaa\TARpe22Shop.Core\obj\Debug\net6.0\TARpe22ShopVaitmaa.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\K\source\repos\TARpe22ShopVaitmaa\TARpe22Shop.Core\obj\Debug\net6.0\TARpe22ShopVaitmaa.Core.AssemblyInfoInputs.cache
+G:\Users\K\source\repos\TARpe22ShopVaitmaa\TARpe22Shop.Core\obj\Debug\net6.0\TARpe22ShopVaitmaa.Core.AssemblyInfo.cs
+G:\Users\K\source\repos\TARpe22ShopVaitmaa\TARpe22Shop.Core\obj\Debug\net6.0\TARpe22ShopVaitmaa.Core.csproj.CoreCompileInputs.cache
+G:\Users\K\source\repos\TARpe22ShopVaitmaa\TARpe22Shop.Core\obj\Debug\net6.0\TARpe22ShopVaitmaa.Core.sourcelink.json
+G:\Users\K\source\repos\TARpe22ShopVaitmaa\TARpe22Shop.Core\obj\Debug\net6.0\TARpe22ShopVaitmaa.Core.dll
+G:\Users\K\source\repos\TARpe22ShopVaitmaa\TARpe22Shop.Core\obj\Debug\net6.0\refint\TARpe22ShopVaitmaa.Core.dll
+G:\Users\K\source\repos\TARpe22ShopVaitmaa\TARpe22Shop.Core\obj\Debug\net6.0\TARpe22ShopVaitmaa.Core.pdb
+G:\Users\K\source\repos\TARpe22ShopVaitmaa\TARpe22Shop.Core\obj\Debug\net6.0\ref\TARpe22ShopVaitmaa.Core.dll

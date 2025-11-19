@@ -1,0 +1,484 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.UnitTesting\\TARpe22ShopVaitmaa.UnitTesting.csproj": {}
+  },
+  "projects": {
+    "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj",
+        "projectName": "TARpe22ShopVaitmaa.ApplicationServices",
+        "projectPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj",
+        "packagesPath": "G:\\Users\\K\\.nuget\\packages\\",
+        "outputPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "G:\\Users\\K\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "G:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "G:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "G:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "G:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj": {
+                "projectPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Microsoft.AspNetCore.Hosting": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Nancy": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "G:\\Program Files\\dotnet\\sdk\\9.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj",
+        "projectName": "TARpe22ShopVaitmaa.Core",
+        "projectPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj",
+        "packagesPath": "G:\\Users\\K\\.nuget\\packages\\",
+        "outputPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "G:\\Users\\K\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "G:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "G:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "G:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "G:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "G:\\Program Files\\dotnet\\sdk\\9.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj",
+        "projectName": "TARpe22ShopVaitmaa.Data",
+        "projectPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj",
+        "packagesPath": "G:\\Users\\K\\.nuget\\packages\\",
+        "outputPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "G:\\Users\\K\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "G:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "G:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "G:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "G:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj": {
+                "projectPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.23, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.23, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.23, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "G:\\Program Files\\dotnet\\sdk\\9.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.SpaceshipTest\\TARpe22ShopVaitmaa.SpaceshipTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.SpaceshipTest\\TARpe22ShopVaitmaa.SpaceshipTest.csproj",
+        "projectName": "TARpe22ShopVaitmaa.SpaceshipTest",
+        "projectPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.SpaceshipTest\\TARpe22ShopVaitmaa.SpaceshipTest.csproj",
+        "packagesPath": "G:\\Users\\K\\.nuget\\packages\\",
+        "outputPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.SpaceshipTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "G:\\Users\\K\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "G:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "G:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "G:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "G:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj": {
+                "projectPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj"
+              },
+              "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj": {
+                "projectPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.6.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.5.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "G:\\Program Files\\dotnet\\sdk\\9.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.UnitTesting\\TARpe22ShopVaitmaa.UnitTesting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.UnitTesting\\TARpe22ShopVaitmaa.UnitTesting.csproj",
+        "projectName": "TARpe22ShopVaitmaa.UnitTesting",
+        "projectPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.UnitTesting\\TARpe22ShopVaitmaa.UnitTesting.csproj",
+        "packagesPath": "G:\\Users\\K\\.nuget\\packages\\",
+        "outputPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.UnitTesting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "G:\\Users\\K\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "G:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "G:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "G:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "G:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj": {
+                "projectPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj"
+              },
+              "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj": {
+                "projectPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj"
+              },
+              "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj": {
+                "projectPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj"
+              },
+              "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.SpaceshipTest\\TARpe22ShopVaitmaa.SpaceshipTest.csproj": {
+                "projectPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.SpaceshipTest\\TARpe22ShopVaitmaa.SpaceshipTest.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[18.0.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.6.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "G:\\Program Files\\dotnet\\sdk\\9.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

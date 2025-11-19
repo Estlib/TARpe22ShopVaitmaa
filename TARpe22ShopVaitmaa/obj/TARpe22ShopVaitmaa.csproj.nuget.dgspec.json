@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.csproj": {}
+    "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.csproj": {}
   },
   "projects": {
-    "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj": {
+    "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj",
+        "projectUniqueName": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj",
         "projectName": "TARpe22ShopVaitmaa.ApplicationServices",
-        "projectPath": "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj",
+        "projectPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj",
         "packagesPath": "G:\\Users\\K\\.nuget\\packages\\",
-        "outputPath": "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\obj\\",
+        "outputPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj": {
-                "projectPath": "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj"
+              "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj": {
+                "projectPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj"
               }
             }
           }
@@ -43,7 +43,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net6.0": {
@@ -55,15 +61,23 @@
             },
             "Microsoft.AspNetCore.Hosting": {
               "target": "Package",
-              "version": "[2.2.7, )"
+              "version": "[2.3.0, )"
             },
             "Microsoft.AspNetCore.Http.Features": {
               "target": "Package",
               "version": "[5.0.17, )"
             },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
             "Nancy": {
               "target": "Package",
               "version": "[2.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
             }
           },
           "imports": [
@@ -82,18 +96,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "G:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "G:\\Program Files\\dotnet\\sdk\\9.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj": {
+    "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj",
+        "projectUniqueName": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj",
         "projectName": "TARpe22ShopVaitmaa.Core",
-        "projectPath": "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj",
+        "projectPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj",
         "packagesPath": "G:\\Users\\K\\.nuget\\packages\\",
-        "outputPath": "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\obj\\",
+        "outputPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -121,7 +135,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net6.0": {
@@ -152,18 +172,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "G:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "G:\\Program Files\\dotnet\\sdk\\9.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj": {
+    "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj",
+        "projectUniqueName": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj",
         "projectName": "TARpe22ShopVaitmaa.Data",
-        "projectPath": "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj",
+        "projectPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj",
         "packagesPath": "G:\\Users\\K\\.nuget\\packages\\",
-        "outputPath": "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\obj\\",
+        "outputPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -185,8 +205,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj": {
-                "projectPath": "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj"
+              "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj": {
+                "projectPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Core\\TARpe22ShopVaitmaa.Core.csproj"
               }
             }
           }
@@ -195,7 +215,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net6.0": {
@@ -232,18 +258,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "G:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "G:\\Program Files\\dotnet\\sdk\\9.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.csproj": {
+    "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.csproj",
+        "projectUniqueName": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.csproj",
         "projectName": "TARpe22ShopVaitmaa",
-        "projectPath": "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.csproj",
+        "projectPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa.csproj",
         "packagesPath": "G:\\Users\\K\\.nuget\\packages\\",
-        "outputPath": "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa\\obj\\",
+        "outputPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22ShopVaitmaa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -265,11 +291,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj": {
-                "projectPath": "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj"
+              "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj": {
+                "projectPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.ApplicationServices\\TARpe22ShopVaitmaa.ApplicationServices.csproj"
               },
-              "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj": {
-                "projectPath": "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj"
+              "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj": {
+                "projectPath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj"
               }
             }
           }
@@ -278,7 +304,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net6.0": {
@@ -322,7 +354,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "G:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "G:\\Program Files\\dotnet\\sdk\\9.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     }

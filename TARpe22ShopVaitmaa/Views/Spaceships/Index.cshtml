@@ -6,7 +6,7 @@
     Products
 </div>
 <div>
-    <a asp-action="create" asp-controller="spaceships" type="submit" class="btn btn-primary">Add</a>
+    <a id="testIdAdd" asp-action="create" asp-controller="spaceships" type="submit" class="btn btn-primary">Add</a>
 </div>
 
 <form method="post">
@@ -25,15 +25,15 @@
             @foreach (var spaceship in Model)
             {                
                 <tr>
-                    <td>@rowNumber</td>
-                    <td>@spaceship.Name</td>
-                    <td>@spaceship.Type</td>
-                    <td>@spaceship.PassengerCount</td>
-                    <td>@spaceship.EnginePower</td>
+                    <td id="testIdRN#">@rowNumber</td>
+                    <td id="testIdNAM_I">@spaceship.Name</td>
+                    <td id="testIdTYP_I">@spaceship.Type</td>
+                    <td id="testIdPCT_I">@spaceship.PassengerCount</td>
+                    <td id="testIdEPW_I">@spaceship.EnginePower</td>
                     <td>
-                        <a asp-action="details" asp-controller="spaceships" asp-route-id="@spaceship.Id" class="btn btn-info">Details</a>
-                        <a asp-action="update" asp-controller="spaceships" asp-route-id="@spaceship.Id" class="btn btn-primary">Edit</a>
-                        <a asp-action="delete" asp-controller="spaceships" asp-route-id="@spaceship.Id" class="btn btn-danger">Delete</a>
+                        <a id="testIdDET" asp-action="details" asp-controller="spaceships" asp-route-id="@spaceship.Id" class="btn btn-info">Details</a>
+                        <a id="testIdMOD" asp-action="update" asp-controller="spaceships" asp-route-id="@spaceship.Id" class="btn btn-primary">Edit</a>
+                        <a id="testIdDEL" asp-action="delete" asp-controller="spaceships" asp-route-id="@spaceship.Id" class="btn btn-danger">Delete</a>
                     </td>
                 </tr>
                 rowNumber +=1;

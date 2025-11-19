@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TARpe22ShopVaitmaa.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0587d5d0281a1ce059812f6c6c7a419431e75f52")]
 [assembly: System.Reflection.AssemblyProductAttribute("TARpe22ShopVaitmaa.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TARpe22ShopVaitmaa.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

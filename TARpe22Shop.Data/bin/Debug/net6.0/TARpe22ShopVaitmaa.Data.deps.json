@@ -577,7 +577,10 @@
           "Microsoft.AspNetCore.Http.Features": "5.0.17"
         },
         "runtime": {
-          "TARpe22ShopVaitmaa.Core.dll": {}
+          "TARpe22ShopVaitmaa.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

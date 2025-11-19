@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AmO4qTEh6WvQ3d5OMci2arl4wF7O0glhQIuYfmct+7xKB5a6jvDhuJ9FQ1W6GqLOWPMRLrFV7yuoH7iH3uU8sw==",
+  "dgSpecHash": "boZJPXtCIn8=",
   "success": true,
-  "projectFilePath": "G:\\Users\\K\\Desktop\\teetch\\shopproject\\tarpe22\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj",
+  "projectFilePath": "G:\\Users\\K\\source\\repos\\TARpe22ShopVaitmaa\\TARpe22Shop.Data\\TARpe22ShopVaitmaa.Data.csproj",
   "expectedPackageFiles": [
     "G:\\Users\\K\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "G:\\Users\\K\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",

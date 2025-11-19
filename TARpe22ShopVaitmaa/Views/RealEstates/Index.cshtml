@@ -4,7 +4,7 @@
 }
 <div class="h1">Real Estates</div>
 <div>
-    <a asp-action="create" asp-controller="realEstates" type="submit" class="btn btn-primary">Create</a>
+    <a id="test_create" asp-action="create" asp-controller="realEstates" type="submit" class="btn btn-primary">Create</a>
 </div>
 <form method="post">
     <table class="table table-hover">
@@ -24,10 +24,10 @@
             {
                 <tr>
                     <td>@rowNumber</td>
-                    <td>@realEstate.Location</td>
-                    <td>@realEstate.SquareMeters</td>
-                    <td>@realEstate.RoomCount</td>
-                    <td>@realEstate.Price</td>
+                    <td >@realEstate.Location</td>
+                    <td id="test_index_sqm">@realEstate.SquareMeters</td>
+                    <td id="test_index_roomcount">@realEstate.RoomCount</td>
+                    <td id="test_index_price">@realEstate.Price</td>
                     <td>@realEstate.IsPropertySold</td>
                     <td>
                         <a asp-action="details" asp-controller="realEstates" asp-route-id="@realEstate.Id" class="btn btn-info">Details</a>
